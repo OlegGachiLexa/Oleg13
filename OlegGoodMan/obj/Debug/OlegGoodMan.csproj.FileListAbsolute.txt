@@ -1,0 +1,5 @@
+C:\Users\stud305\source\repos\Oleg13\OlegGoodMan\bin\Debug\OlegGoodMan.dll
+C:\Users\stud305\source\repos\Oleg13\OlegGoodMan\bin\Debug\OlegGoodMan.pdb
+C:\Users\stud305\source\repos\Oleg13\OlegGoodMan\obj\Debug\OlegGoodMan.csprojAssemblyReference.cache
+C:\Users\stud305\source\repos\Oleg13\OlegGoodMan\obj\Debug\OlegGoodMan.dll
+C:\Users\stud305\source\repos\Oleg13\OlegGoodMan\obj\Debug\OlegGoodMan.pdb
